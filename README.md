@@ -1,6 +1,6 @@
 # One Of These Things Is Not Like The Other
 
-Inspired by http://javascriptisnotjava.io rolled into a function.
+Inspired by http://javascriptisnotjava.io rolled into a function.  View demo http://codepen.io/Arney/pen/pyWVvj
 
 Java is to JavaScript as...
 
