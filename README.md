@@ -1,10 +1,12 @@
-# oottinlto
+# One Of These Things Is Not Like The Other
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe oottinlto here.
+Inspired by http://javascriptisnotjava.io rolled into a function.
+
+Java is to JavaScript as...
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.svg?style=flat-square
 [build]: https://travis-ci.org/user/repo

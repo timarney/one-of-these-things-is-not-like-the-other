@@ -20,8 +20,8 @@
   "devDependencies": {
     "nwb": "0.9.x"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Tim Arney",
+  "homepage": "http://line37.com",
   "license": "MIT",
-  "repository": ""
+  "repository": "https://github.com/timarney/one-of-these-things-is-not-like-the-other"
 }
