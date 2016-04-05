@@ -12,6 +12,6 @@ describe('One Of These Things Is Not Like The Other', () => {
   })
 
   it('displays as Word is to WordPress', () => {
-    expect(main('Java', 'JavaScript', 'Count', 'Country')).toContain('Java is to JavaScript as Word is to WordPress')
+    expect(main('Java', 'JavaScript', 'Word', 'WordPress')).toContain('Java is to JavaScript as Word is to WordPress')
   })
 })
